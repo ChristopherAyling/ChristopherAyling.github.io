@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "First Post :)"
+categories: jekyll update
+---
+
+Hey there. This is the first post on the blog. It is only here for debug purposes so a real "first" post will come soon. That post will contain the intentions I have for this blog.

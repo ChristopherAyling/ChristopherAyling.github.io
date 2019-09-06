@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Second :)"
+categories: jekyll update
+---
+
+Second post. Also for debugging
